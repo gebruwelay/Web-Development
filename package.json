@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "my first boot strap",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gebruwelay/Web-Development.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "javascript",
+    "master",
+    "git",
+    "githuub"
+  ],
+  "author": "gebru",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gebruwelay/Web-Development/issues"
+  },
+  "homepage": "https://github.com/gebruwelay/Web-Development#readme"
+}
