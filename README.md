@@ -1,2 +1,3 @@
 # Web-Development
-this is my first trial to git hub
+This project is about GeoTODO , you can add and modify your tasks one by one on the map.
+
