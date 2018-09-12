@@ -9,7 +9,7 @@ installation steps:
 
 3. clone this projet from nodejs terminal
  
- git clone https://github.com/gebruwelay/Web-Development.git
+   git clone https://github.com/gebruwelay/Web-Development.git
  
  4. node GeotodoRestAPI.js
  5. localhost:3000
